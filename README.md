@@ -41,7 +41,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </a>
 <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Networks-CISCO-00bceb?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
+    <img src="https://cdn.simpleicons.org/cisco/049FD9" alt="Cisco" width="40" height="40"/>
+</a>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
