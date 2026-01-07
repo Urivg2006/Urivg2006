@@ -10,7 +10,7 @@
 
 ### Web in GitHub:
 
-[Formes Grafiques Valls](https://urivg2006.github.io/Formes-Grafiques-Valls/)
+[![Web](https://img.shields.io/badge/Website-Veure_Projecte-blue?style=for-the-badge&logo=github)](https://urivg2006.github.io/Formes-Grafiques-Valls/)
 
 # COMMING SOON:
 ### Python repository
