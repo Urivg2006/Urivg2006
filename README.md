@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Oriol Virgili
 
-### Casual Programmer
+### 💻 Programmer
 ### 🎓 Web Application Development Student
 ### 🛠️ IT Systems & Networks Technician
 
@@ -10,7 +10,7 @@
 
 ### Web in GitHub:
 
-[Formes Grafiques Valls]([https://enllaç-al-teu-projecte](https://urivg2006.github.io/Formes-Grafiques-Valls/))
+[Formes Grafiques Valls]([https://urivg2006.github.io/Formes-Grafiques-Valls/])
 
 # COMMING SOON:
 ### Python repository
