@@ -12,9 +12,9 @@
 
 [Formes Grafiques Valls]([https://enllaç-al-teu-projecte](https://urivg2006.github.io/Formes-Grafiques-Valls/))
 
-COMMING SOON:
-## Python repository
-## Java respository
+### COMMING SOON:
+# Python repository
+# Java respository
 ---
 
 ### Languages and Tools:
