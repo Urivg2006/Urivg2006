@@ -9,13 +9,13 @@
 ---
 
 ### Web in GitHub:
-
-<h3 align="center">
+<div align="center">
   <a href="https://urivg2006.github.io/Formes-Grafiques-Valls/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" height="40" alt="Web" />
-    Formes Grafiques Valls
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=8B4513&height=60&section=header&text=Formes%20Grafiques%20Valls&fontSize=30&animation=fadeIn" 
+    width="400" 
+    alt="Formes Grafiques Valls" />
   </a>
-</h3>
+</div>
 
 # COMMING SOON:
 ### Python repository
