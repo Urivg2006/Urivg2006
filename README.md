@@ -18,7 +18,7 @@
 </div>
 
 # COMMING SOON:
-### Python repository
+### Python repository (60% completed)
 ### Java respository
 ### Flutter repository
 ---
