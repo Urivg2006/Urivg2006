@@ -18,9 +18,9 @@
 </div>
 
 # COMMING SOON:
-### Python repository (60% completed)
-### Java respository
-### Flutter repository
+### Python repositorys (60% completed)
+### Java respositorys (25% completed)
+### Flutter repositorys (15% completed)
 ---
 
 ### Languages and Tools:
