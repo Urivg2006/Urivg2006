@@ -20,7 +20,7 @@
 # COMMING SOON:
 ### Python repositorys (60% completed)
 ### Java respositorys (25% completed)
-### Flutter repositorys (15% completed)
+### Flutter repositorys (20% completed)
 ---
 
 ### Languages and Tools:
