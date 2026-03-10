@@ -17,10 +17,10 @@
   </a>
 </div>
 
-# COMMING SOON:
-### Python repositorys (75% completed)
-### Java respositorys (50% completed)
-### Flutter repositorys (40% completed)
+# COMING SOON:
+### Python repositories (75% completed)
+### Java repositories (50% completed)
+### Flutter repositories (40% completed)
 ---
 
 ### Languages and Tools:
