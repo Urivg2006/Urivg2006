@@ -18,7 +18,7 @@
 </div>
 
 # COMING SOON:
-### Python repositories (85% completed)
+### Python repositories (100% completed)
 ### Java repositories (55% completed)
 ### Flutter repositories (60% completed)
 ---
@@ -90,10 +90,6 @@
 </a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" alt="Spring Boot" width="40" height="40"/>
 </a>
 
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
